@@ -2,7 +2,7 @@ name: Mark stale issues and pull requests
 
 on:
   schedule:
-  - cron: '16 14 * * *'
+  - cron: '20 14 * * *'
 
 jobs:
   stale:
